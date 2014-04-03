@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Plurals\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tests.py:108 templatetags/humanize.py:164
+msgid "today"
+msgstr ""
+
+#: tests.py:108 templatetags/humanize.py:168
+msgctxt "be"
+msgid "yesterday"
+msgstr ""
+
+#: tests.py:108 templatetags/humanize.py:166
+msgctxt "tre"
+msgid "tomorrow"
+msgstr ""
+
+#: templatetags/humanize.py:53
+msgid "%s million"
+msgid_plural "%s million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templatetags/humanize.py:143
+msgctxt "other name"
+msgid "one"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "two"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "three"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "four"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "five"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "six"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "seven"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "eight"
+msgstr ""
+
+#: templatetags/humanize.py:143
+msgid "nine"
+msgstr ""
+
+#: templatetags/humanize.py:185
+msgctxt "naturaltime"
+msgid "%s ago"
+msgstr ""
+
+#: templatetags/humanize.py:188 templatetags/humanize.py:210
+msgid "now"
+msgstr ""
+
+#: templatetags/humanize.py:191
+msgid "a second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templatetags/humanize.py:196
+msgid "a minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templatetags/humanize.py:201
+msgid "an hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templatetags/humanize.py:213
+msgid "a second from now"
+msgid_plural "%s seconds from now"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templatetags/humanize.py:218
+msgid "a minute from now"
+msgid_plural "%s minutes from now"
+msgstr[0] ""
+msgstr[1] ""
+
+#. * Copyright (c) 2004 Apple Computer, Inc. All rights reserved.
+#.  *
+#.  * @APPLE_LICENSE_HEADER_START@
+#.  * 
+#.  * This file contains Original Code and/or Modifications of Original Code
+#.  * as defined in and that are subject to the Apple Public Source License
+#.  * Version 2.0 (the 'License'). You may not use this file except in
+#.  * compliance with the License. Please obtain a copy of the License at
+#.  * http://www.opensource.apple.com/apsl/ and read it before using this
+#.  * file.
+#.  * 
+#.  * The Original Code and all software distributed under the License are
+#.  * distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
+#.  * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
+#.  * INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,
+#.  * FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
+#.  * Please see the License for the specific language governing rights and
+#.  * limitations under the License.
+#.  * 
+#.  * @APPLE_LICENSE_HEADER_END@
+#.  
+#. 
+#.  * Localizable.strings file for the webdav_cert_ui application bundle
+#.  *
+#.  * The webdav_cert_ui application is used by the WebDAV file system to display
+#.  * the Certificate Trust Panel when the server has a certificate is not trusted for
+#.  * some reason (expired, invalid, not yet valid, or unknown certifying authority).
+#.  
+#. 
+#.  * These strings tell the user why the certificate for the WebDAV server is
+#.  * not trusted, gives the name of the WebDAV server host, and asks the user if
+#.  * they'd like to continue to connect or cancel. The marker (%@) will be replaced
+#.  * by the server's host name (i.e. www.apple.com).
+#: 
+msgid "MESSAGE_CERT_EXPIRED"
+msgstr ""
+
+#: 
+msgid "MESSAGE_CERT_INVALID"
+msgstr ""
+
+#: 
+msgid "MESSAGE_CERT_NOT_YET_VALID"
+msgstr ""
+
+#: 
+msgid "MESSAGE_CERT_UNKNOWN_AUTHORITY"
+msgstr ""
+
+#. The title for the "Cancel" button
+#: 
+msgid "MESSAGE_CERT_CANCEL"
+msgstr ""
+
+#. The title for the "Continue" button
+#: 
+msgid "MESSAGE_CERT_CONTINUE"
+msgstr ""
+
+#: 
+msgid "MESSAGE_CERT_OK"
+msgstr ""
+
